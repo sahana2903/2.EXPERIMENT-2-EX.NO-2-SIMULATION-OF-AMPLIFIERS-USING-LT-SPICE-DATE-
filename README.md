@@ -1,7 +1,7 @@
 **EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
 DATE: 
 
- 
+**  
 
 
 ## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
@@ -22,7 +22,8 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+<img width="606" height="403" alt="image" src="https://github.com/user-attachments/assets/48a18cdc-8993-4377-b400-bdf937850428" />
+
 
 
 ---
@@ -31,42 +32,46 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="1919" height="452" alt="image" src="https://github.com/user-attachments/assets/34593245-0af2-4859-9da3-681147f7a8da" />
+
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+CIRCUIT 
 ---
+<img width="612" height="389" alt="image" src="https://github.com/user-attachments/assets/bee0c992-2ee5-4003-9a8c-9d05d855b2e4" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1916" height="401" alt="image" src="https://github.com/user-attachments/assets/51a12f98-0cb3-4e63-ab5a-00e0661f416b" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
+CIRCUIT
 ---
+<img width="683" height="399" alt="image" src="https://github.com/user-attachments/assets/6072f1e4-efb5-4e00-8130-3cfff252dfe3" />
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="451" alt="image" src="https://github.com/user-attachments/assets/18bfad84-30a7-4d21-9408-b3c709a2d2df" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
-
-PASTE THE CIRCUIT HERE
+CIRCUIT 
 ---
+<img width="720" height="380" alt="image" src="https://github.com/user-attachments/assets/e7bfdc6f-28a4-437e-a7a9-e46d6fd36df5" />
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="1919" height="460" alt="image" src="https://github.com/user-attachments/assets/d53375ec-9272-4182-bca0-0ce2d83a8948" />
+
 ---
 
 ## RESULT
